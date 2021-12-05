@@ -22,5 +22,14 @@ This repository contains my submitted solutions for Advent of code Challenges.
 |[Day 12](https://github.com/Shashi-Bhushan/advent-of-code/blob/master/src/main/java/in/shabhushan/advent_of_code/twenty_twenty/Twelve.java) | Rain Risk |
 |[Day 13](https://github.com/Shashi-Bhushan/advent-of-code/blob/master/src/main/java/in/shabhushan/advent_of_code/twenty_twenty/Thirteen.java) | Shuttle Search |
 
+## Advent of Code 2021
+[Link](https://adventofcode.com/2021) to the page
+
+## Days:
+| Link to source code | Name |
+| --- | --- |
+|[Day 1](https://github.com/Shashi-Bhushan/advent-of-code/blob/master/src/main/java/in/shabhushan/advent_of_code/twenty_twenty_one/One.java) | Sonar Sweep |
+|[Day 2](https://github.com/Shashi-Bhushan/advent-of-code/blob/master/src/main/java/in/shabhushan/advent_of_code/twenty_twenty_one/Two.java) | Dive |
+
 ## About Me
 ![Codewars](https://www.codewars.com/users/Shashi-Bhushan/badges/large)
